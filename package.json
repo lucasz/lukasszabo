@@ -17,7 +17,7 @@
   },
   "name": "lukasszabo_com",
   "description": "Personal portfolio.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "app.vue",
   "author": "Lukas Szabo",
   "license": "ISC",
@@ -28,5 +28,10 @@
   "bugs": {
     "url": "https://github.com/lucasz/lukasszabo_com/issues"
   },
-  "homepage": "https://github.com/lucasz/lukasszabo_com#readme"
+  "homepage": "https://github.com/lucasz/lukasszabo_com#readme",
+  "keywords": [
+    "klucove",
+    "su",
+    "skutky"
+  ]
 }
