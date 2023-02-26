@@ -12,8 +12,7 @@
     "nuxt": "^3.2.2"
   },
   "dependencies": {
-    "@nuxtjs/tailwindcss": "^6.4.1",
-    "nuxt-unhead": "^1.4.6"
+    "@nuxtjs/tailwindcss": "^6.4.1"
   },
   "name": "lukasszabo_com",
   "description": "Personal portfolio.",
