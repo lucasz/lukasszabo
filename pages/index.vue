@@ -3,11 +3,6 @@
       Graphic & Frontend freelancer<br/>based in <span>Bratislava</span>
     </h1>
 </template>
-<script>
-  definePageMeta({
-    layout: "default",
-  });
-</script>
 <style scoped>
 span {
   color: #2DFFD8;
