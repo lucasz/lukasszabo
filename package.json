@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -17,14 +17,11 @@
   },
   "name": "lukasszabo_com",
   "description": "Personal portfolio.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "app.vue",
   "author": "Lukas Szabo",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lucasz/lukasszabo_com.git"
-  },
+  "license": "89",
+  "repository": "git+https://github.com/lucasz/lukasszabo_com.git",
   "bugs": {
     "url": "https://github.com/lucasz/lukasszabo_com/issues"
   },
