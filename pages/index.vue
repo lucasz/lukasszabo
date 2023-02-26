@@ -3,7 +3,7 @@
       Graphic & Frontend freelancer<br/>based in <span>Bratislava</span>
     </h1>
 </template>
-<script lang="ts">
+<script>
   definePageMeta({
     layout: "default",
   });
