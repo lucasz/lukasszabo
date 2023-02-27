@@ -15,7 +15,7 @@
   },
   "name": "lukasszabo_com",
   "description": "Personal portfolio.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "pages/index.vue",
   "author": "Lukas Szabo",
   "license": "ISC",
