@@ -1,5 +1,5 @@
 <template>
-    <span class="inline-block align-text-bottom">© {{currentYear}} lukasszabo.com</span>
+    <span class="inline-block align-text-bottom text-xs">© {{currentYear}} lukasszabo.com</span>
 </template>
 <script>
 export default {
@@ -10,3 +10,8 @@ export default {
   }
 };
 </script>
+<style scoped>
+span {
+  color:#fff
+}
+</style>

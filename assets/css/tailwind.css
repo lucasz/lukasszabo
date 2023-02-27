@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+p {
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}

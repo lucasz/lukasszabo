@@ -6,7 +6,7 @@
 <style scoped>
     a {
         margin-right: 20px;
-        color:#505050;
+color: #fff;
     }
     a:hover {
         color:#2DFFD8;

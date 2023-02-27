@@ -1,3 +1,13 @@
 <template >
-    <NuxtLink href="/"><img src="~/assets/img/photo.png" alt="" style="height: 200px; max-width: 200px; margin-top: -100px; margin-left: -50px;"/></NuxtLink>
+    <NuxtLink href="/"><img src="~/assets/img/photo.png" alt="" class="logotype" height="100" width="100" style="min-height: 100px; min-width: 100px;"/></NuxtLink>
 </template>
+<style>
+@media (min-width: 640px) { 
+
+    .logotype {
+        margin: 0;
+    }
+
+
+ }
+</style>
