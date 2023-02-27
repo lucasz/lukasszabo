@@ -1,11 +1,11 @@
 {
   "private": false,
   "scripts": {
-    "build": "yarn build",
-    "dev": "yarn dev",
-    "generate": "yarn generate",
-    "preview": "yarn preview",
-    "postinstall": "yarn prepare"
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
   },
   "devDependencies": {
     "nuxt": "^3.2.2"
@@ -18,8 +18,11 @@
   "version": "1.0.2",
   "main": "pages/index.vue",
   "author": "Lukas Szabo",
-  "license": "89",
-  "repository": "git+https://github.com/lucasz/lukasszabo_com.git",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasz/lukasszabo_com.git"
+  },
   "bugs": {
     "url": "https://github.com/lucasz/lukasszabo_com/issues"
   },
